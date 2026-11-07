@@ -1,0 +1,10 @@
+SCHOLARSHIP CASE
+Score: 68
+Documents Complete: True
+Attendance: 90
+Interview Score: 80
+
+Conversational AI Result: Eligible
+Rule-Based System Result: Not Eligible
+Result: Disagreement
+Reason: Score is below 70.

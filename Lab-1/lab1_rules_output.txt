@@ -1,0 +1,23 @@
+Case 1 - Normal Pass
+Input: 85 True 90 80
+Expected Result: Eligible
+Actual Result: Eligible
+Reason: All four conditions are satisfied.
+
+Case 2 - Attendance Failure
+Input: 80 True 70 75
+Expected Result: Not Eligible
+Actual Result: Not Eligible
+Reason: Attendance is below 75%.
+
+Case 3 - Interview Failure
+Input: 80 True 85 40
+Expected Result: Not Eligible
+Actual Result: Not Eligible
+Reason: Interview score is below 50.
+
+Case 4 - Threshold Boundary
+Input: 70 True 75 50
+Expected Result: Eligible
+Actual Result: Eligible
+Reason: All four conditions are satisfied.
